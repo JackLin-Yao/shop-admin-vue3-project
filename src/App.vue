@@ -1,7 +1,7 @@
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
+<template>
+  <router-view></router-view>
+</template>
 
-<template>APP</template>
-
-<style scoped></style>
+<style lang="sass" scoped></style>
